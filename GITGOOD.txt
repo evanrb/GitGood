@@ -2,4 +2,4 @@ hello Git Testing!!!!
 
 This should be committed to the new cranch!!!
 
-x = 7
+x = 6
